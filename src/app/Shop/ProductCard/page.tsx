@@ -1,3 +1,4 @@
+'use client'
 
 import { useCart } from '@/app/Context/cartContext';
 import { addItemTocart } from '@/lib/servises/cart';
