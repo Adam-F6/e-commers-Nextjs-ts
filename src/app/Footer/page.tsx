@@ -39,7 +39,7 @@ export default function Footer() {
             <div className="col-span-2 md:col-span-3 lg:col-span-1">
               <h3 className="font-bold text-2xl sm:text-3xl mb-4">SHOP.CO</h3>
               <p className="text-gray-600 text-sm mb-6">
-                We have clothes that suits your style and which you're proud to wear. From women to men.
+                We have clothes that suits your style and which you`re proud to wear. From women to men.
               </p>
               <div className="flex gap-3">
                 <a href="#" className="w-8 h-8 bg-white border border-gray-300 rounded-full flex items-center justify-center hover:bg-black hover:text-white transition-colors">
